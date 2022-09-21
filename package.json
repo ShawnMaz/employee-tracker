@@ -1,0 +1,35 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A content managment system for an employeer to view and manage the departments, roles, and employees in the company. This will allow the business owner to organize and plan the business.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnMaz/employee-tracker.git"
+  },
+  "keywords": [
+    "node",
+    "SQL",
+    "relational",
+    "database",
+    "backend"
+  ],
+  "author": "Shantanu M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawnMaz/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/ShawnMaz/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
