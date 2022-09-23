@@ -4,7 +4,7 @@
   "description": "A content managment system for an employeer to view and manage the departments, roles, and employees in the company. This will allow the business owner to organize and plan the business.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": ""
   },
   "repository": {
     "type": "git",
